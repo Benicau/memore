@@ -1,0 +1,42 @@
+h1{
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 100px;
+    line-height: 90px;
+    color: white;
+  }
+  body
+{
+  background-image: url(./images/fond.jpg);
+  background-size: cover;
+}
+
+.resultat
+{
+    margin-top: 50px;
+}
+.infoGame
+{
+    margin-top: 50px;
+    background-color: blueviolet;
+    
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bestTime{
+    
+    
+    border-radius: 5px;
+    margin-top: 15px;
+    color: red;
+    padding: 10px;
+}
+h2{
+    font-size: 15px;
+    padding-top: 5px;
+    margin: 0;
+    color: white;
+}
+.sortie{
+    margin-top: 25px;
+}
